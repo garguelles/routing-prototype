@@ -1,0 +1,7 @@
+{
+  "name": "sentient-routing",
+  "version": "0.0.0",
+  "dependencies": {
+    "aura": "*"
+  }
+}
