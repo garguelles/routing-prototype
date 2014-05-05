@@ -2,6 +2,7 @@
   "name": "sentient-routing",
   "version": "0.0.0",
   "dependencies": {
-    "aura": "*"
+    "aura": "*",
+    "requirejs-text": "~2.0.12"
   }
 }
